@@ -13,7 +13,7 @@
     "url": "git+https://github.com/KLong75/budget-tracker-pwa"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
