@@ -9,7 +9,8 @@ Budget Tracker is a simple budgeting app that allows the user to track individua
 https://kj-budget-tracker-pwa.herokuapp.com/
 
 ## Screenshot
-![Budget Tracker Screenshot](https://user-images.githubusercontent.com/98487770/174674133-ed37831f-5dd2-4b93-adc0-b8e6bfa0f257.png)
+![Budget Tracker Screenshot](https://user-images.githubusercontent.com/98487770/174674192-fb23c45d-7e44-4fba-9581-8b07c8e0f477.png)
+
 
 ## Table of Contents
 - [Installation](#installation)
