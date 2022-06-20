@@ -3,7 +3,7 @@
 ![license badge!](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-Budget Tracker is a simple budgeting app that allows the user to track individual to track their financial transactions (expenses and deposits). Transaction data is stored in a MongoDB database. The app features full offline functionality. Any transactions entered offline are stored in IndexedDB and immediately uploaded when the users's internet connection is restored. The Budget Tracker app is a ddownloadable pwa.
+Budget Tracker is a simple budgeting app that allows the user to track individual to track their financial transactions (expenses and deposits). The application runs on an Express.js server. Transaction data is stored in a MongoDB database. The app features full offline functionality. Any transactions entered offline are stored in IndexedDB and immediately uploaded when the users's internet connection is restored. The Budget Tracker app is a downloadable pwa.
 
 ## Table of Contents
 - [Installation](#installation)
